@@ -6,7 +6,7 @@
 
 2. The purpose of a callback is to execute some code after the completion of other functions or processes.
 
-3.JavaScript has no native support for callbacks but we can achieve this using closures, promises and async/await.
+3. JavaScript has no native support for callbacks but we can achieve this using closures, promises and async/await.
 
 4. JavaScript does not have any built-in mechanism that allows us to implement asynchronous programming in JavaScript. 
 
